@@ -1,5 +1,8 @@
 # redux-chat-back
 
+I used forked this repo to use as an example to learn how to script CI/CD for Docker containers using Github Actions and DockerHub
+
+
 ## Summary
 
 * This solution works with `express` in combination with `socket.io`. To run this app you will need node >= 10.x.x
